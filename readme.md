@@ -1,17 +1,17 @@
 # About
 
-### The Third-Party JS File Used
+### _The Third-Party JS File Used_
 
 - [js-base64](https://github.com/dankogai/js-base64)
 
-### The Encryption Algorithms Used
+### _The Encryption Algorithms Used_
 
 - ECDH
 - AES-GCM
 
-### Disclaimer
+### _Disclaimer_
 
-___Security is not guaranteed___
+__Security is not guaranteed__
 
 - Taking convenience into account, the project has significantly reduced the length of the encryption key, verification tag, and random IV
 
@@ -23,7 +23,7 @@ When you first use this website, a basic user manual will pop up.
 
 Generally, all you need to do is follow these instructions.
 
-### Warning
+### _Warning_
 
 Typically, local-storage API which is used by this project to store chat data can only contain around 5-10MB of data.
 
