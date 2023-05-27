@@ -1,4 +1,4 @@
-# About this Project
+# About
 
 ### The Third-Party JS File Used
 
