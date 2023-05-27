@@ -11,7 +11,7 @@
 
 ### Disclaimer
 
-Security is not guaranteed
+___Security is not guaranteed___
 
 - Taking convenience into account, the project has significantly reduced the length of the encryption key, verification tag, and random IV
 
