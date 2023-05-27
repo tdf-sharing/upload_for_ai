@@ -9,14 +9,6 @@
 - ECDH
 - AES-GCM
 
-### _Disclaimer_
-
-__Security is not guaranteed__
-
-- Taking convenience into account, the project has significantly reduced the length of the encryption key, verification tag, and random IV
-
-- The P-256 curve has been questioned for potential backdoors
-
 # Guide
 
 When you first use this website, a basic user manual will pop up.
@@ -30,3 +22,11 @@ Typically, local-storage API which is used by this project to store chat data ca
 Exceeding this limit may result in the webpage crashing.
 
 Please remember to promptly delete any unnecessary conversations.
+
+# Disclaimer
+
+### _Security is not guaranteed_
+
+- Taking convenience into account, the project has significantly reduced the length of the encryption key, verification tag, and random IV
+
+- The P-256 curve has been questioned for potential backdoors
