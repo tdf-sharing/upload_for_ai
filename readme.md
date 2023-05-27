@@ -2,7 +2,7 @@
 
 ### The Third-Party JS File Used
 
-[https://github.com/dankogai/js-base64](https://github.com/dankogai/js-base64)
+- [js-base64](https://github.com/dankogai/js-base64)
 
 ### The Encryption Algorithms Used
 
@@ -11,13 +11,11 @@
 
 ### Disclaimer
 
-This project does not guarantee security.
+Security is not guaranteed
 
-Taking convenience into account, the project has significantly reduced the length of the encryption key, verification tag, and random IV.
+- Taking convenience into account, the project has significantly reduced the length of the encryption key, verification tag, and random IV
 
-Meanwhile, the P-256 curve has also been questioned for potential backdoors.
-
-Therefore, please refrain from using this project in situations where strict confidentiality is required.
+- The P-256 curve has been questioned for potential backdoors
 
 # Guide
 
